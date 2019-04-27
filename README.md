@@ -28,6 +28,7 @@ http://www.miltontransit.ca/en/resourcesgeneral/gtfs/gtfs-milton.zip
 - Québec
   - https://www.donneesquebec.ca/recherche/fr/dataset/adresses-de-la-ville-de-quebec
 - Montreal: https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-unites-evaluation-fonciere
+- Laval: https://www.donneesquebec.ca/recherche/fr/dataset/geolocalisation-des-adresses
 - Repentigny: https://www.donneesquebec.ca/recherche/fr/dataset/vrep-adresses
 - Rimouski: https://www.donneesquebec.ca/recherche/fr/dataset/adressesrimouski
   - https://www.donneesquebec.ca/recherche/fr/dataset/adressesrimouski#avertissementTelechargement_c95849ab_a901_4d9f_aabf_8417972244e8
