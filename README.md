@@ -14,6 +14,7 @@ https://www.milton.ca/en/townhall/opendata.asp
 http://www.miltontransit.ca/en/resourcesgeneral/gtfs/gtfs-milton.zip
 
 ## addresses
+### Ontario
 - Toronto:
   - https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#f71a13c4-fb51-6116-57b7-1f51a8190585
   - http://opendata.toronto.ca/gcc/address_points_mtm3.zip
@@ -23,6 +24,9 @@ http://www.miltontransit.ca/en/resourcesgeneral/gtfs/gtfs-milton.zip
 - Durham:
   - http://opendata.durham.ca/datasets/civic-addresses
   - http://opendata.durham.ca/datasets/8dcfee4f8c904ef29248b2c82ef33175_0
+### Quebec
+- Québec
+  - https://www.donneesquebec.ca/recherche/fr/dataset/adresses-de-la-ville-de-quebec
 
 ## traffic
 - Quebec:
