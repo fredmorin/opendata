@@ -29,7 +29,8 @@ http://www.miltontransit.ca/en/resourcesgeneral/gtfs/gtfs-milton.zip
   - https://www.donneesquebec.ca/recherche/fr/dataset/2567eac8-a3ce-423a-a43d-6b8e74708c1d/resource/a8498bca-518f-4360-810b-24a0e85ea61c/download/vdq-adresse.zip
 - Montreal: https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-adresses-ponctuelles
   - http://donnees.ville.montreal.qc.ca/dataset/63317d72-426e-41fa-bfef-b0f28bb06ce1/resource/393e5c01-f94b-4190-9a77-fcf9e4b7b394/download/adresse.zip
-
+- Gatineau: https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1393013950
+  - http://www.gatineau.ca/upload/donneesouvertes/ADRESSE.zip
 - Laval: https://www.donneesquebec.ca/recherche/fr/dataset/geolocalisation-des-adresses
   - https://www.donneesquebec.ca/recherche/fr/dataset/8cd81673-5b0b-4050-b4a6-aed80975158a/resource/4621334b-f3f7-43bd-bf84-3a9f174636a2/download/adresse-civique.zip
 - Repentigny: https://www.donneesquebec.ca/recherche/fr/dataset/vrep-adresses
