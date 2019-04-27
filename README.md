@@ -13,7 +13,7 @@ http://transitfeeds.com/
 https://www.milton.ca/en/townhall/opendata.asp
 http://www.miltontransit.ca/en/resourcesgeneral/gtfs/gtfs-milton.zip
 
-## addresses
+## adresses
 ### Ontario
 - Toronto:
   - https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#f71a13c4-fb51-6116-57b7-1f51a8190585
