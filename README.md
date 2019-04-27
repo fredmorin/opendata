@@ -27,6 +27,7 @@ http://www.miltontransit.ca/en/resourcesgeneral/gtfs/gtfs-milton.zip
 ### Quebec
 - Québec
   - https://www.donneesquebec.ca/recherche/fr/dataset/adresses-de-la-ville-de-quebec
+https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-unites-evaluation-fonciere
 
 ## traffic
 - Quebec:
