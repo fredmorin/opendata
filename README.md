@@ -25,8 +25,8 @@ http://www.miltontransit.ca/en/resourcesgeneral/gtfs/gtfs-milton.zip
   - http://opendata.durham.ca/datasets/civic-addresses
   - http://opendata.durham.ca/datasets/8dcfee4f8c904ef29248b2c82ef33175_0
 ### Quebec
-- Québec
-  - https://www.donneesquebec.ca/recherche/fr/dataset/adresses-de-la-ville-de-quebec
+- Québec: https://www.donneesquebec.ca/recherche/fr/dataset/adresses-de-la-ville-de-quebec
+  - https://www.donneesquebec.ca/recherche/fr/dataset/2567eac8-a3ce-423a-a43d-6b8e74708c1d/resource/a8498bca-518f-4360-810b-24a0e85ea61c/download/vdq-adresse.zip
 - Montreal: https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-unites-evaluation-fonciere
 - Laval: https://www.donneesquebec.ca/recherche/fr/dataset/geolocalisation-des-adresses
   - https://www.donneesquebec.ca/recherche/fr/dataset/8cd81673-5b0b-4050-b4a6-aed80975158a/resource/4621334b-f3f7-43bd-bf84-3a9f174636a2/download/adresse-civique.zip
