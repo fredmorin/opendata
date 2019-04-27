@@ -28,6 +28,14 @@ http://www.miltontransit.ca/en/resourcesgeneral/gtfs/gtfs-milton.zip
 - Québec
   - https://www.donneesquebec.ca/recherche/fr/dataset/adresses-de-la-ville-de-quebec
 https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-unites-evaluation-fonciere
+- Repentigny: https://www.donneesquebec.ca/recherche/fr/dataset/vrep-adresses
+- Rimouski: https://www.donneesquebec.ca/recherche/fr/dataset/adressesrimouski
+  - https://www.donneesquebec.ca/recherche/fr/dataset/adressesrimouski#avertissementTelechargement_c95849ab_a901_4d9f_aabf_8417972244e8
+- Longeuil: https://www.donneesquebec.ca/recherche/fr/dataset/adresses
+  - https://www.longueuil.quebec/sites/longueuil/files/donnees_ouvertes/adresses.zip
+
+
+
 
 ## traffic
 - Quebec:
